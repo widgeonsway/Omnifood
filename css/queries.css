@@ -9,7 +9,7 @@
     max-width: 120rem;
   }
 
-  .heading-primary {
+  .header-primary {
     font-size: 4.4rem;
   }
 
@@ -33,11 +33,11 @@
     row-gap: 6.4rem;
   }
 
-  .heading-secondary {
+  .header-secondary {
     font-size: 3.6rem;
   }
 
-  .heading-tertiary {
+  .header-tertiary {
     font-size: 2.4rem;
   }
 
@@ -53,7 +53,7 @@
     gap: 4.8rem;
   }
 
-  .testimonials-container {
+  .testimonial-container {
     padding: 9.6rem 3.2rem;
   }
 }
@@ -195,7 +195,7 @@
     justify-self: center;
   }
 
-  .heading-secondary {
+  .header-secondary {
     margin-bottom: 4.8rem;
   }
 
@@ -255,15 +255,15 @@
     height: 1.2rem;
   }
 
-  .step-img-box:nth-child(2) {
+  .step-image-box:nth-child(2) {
     grid-row: 1;
   }
 
-  .step-img-box:nth-child(6) {
+  .step-image-box:nth-child(6) {
     grid-row: 5;
   }
 
-  .step-img-box {
+  .step-image-box {
     transform: translateY(2.4rem);
   }
 
@@ -284,7 +284,7 @@
     padding: 3.2rem;
   }
 
-  .cta-img-box {
+  .cta-image-box {
     height: 32rem;
     grid-row: 1;
   }
